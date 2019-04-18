@@ -26,5 +26,6 @@ public class ForThing {
 
 		System.out.println("Am terminat forul");
 		//
+
 	}
 }
