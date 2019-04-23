@@ -26,6 +26,8 @@ public class StudentClient {
 
 		Student sef = gasesteSeful(students);
 		sef.show();
+		sef.show("Seful este: ");
+		sef.show(10);
 
 	}
 
