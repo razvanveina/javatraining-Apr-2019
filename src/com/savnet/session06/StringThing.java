@@ -58,8 +58,8 @@ public class StringThing {
 		System.out.println("abcdef".replaceAll("a", "A"));
 
 		String sx = "abcdef";
-		String sss = sx.replaceAll("a", "A");
-		System.out.println(sss);
+		sx.replaceAll("a", "A");
+		System.out.println(sx);
 
 		char[] charArray = "qwe".toCharArray();
 		for (char ch : charArray) {
