@@ -1,0 +1,7 @@
+				Func	Impl	Total
+Prodan Raul		7.00	7.00	7.00
+Farkas Noemi	9.50	9.00	9.25
+Calo Bianca		6.50	6.50	6.50
+Cilibiu Simona	5.00	5.00	5.00
+Boar Andreea	3.00	3.00	3.00
+Fuior Gabriela	2.00	2.00	2.00
